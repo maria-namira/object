@@ -1,5 +1,5 @@
 {
-  "name": "ajs",
+  "name": "object",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -37,5 +37,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
+  },
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/maria-namira/object.git"
   }
 }
